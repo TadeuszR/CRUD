@@ -1,0 +1,23 @@
+# This file is auto-generated during the composer install
+#parameters:
+#    database_host: 127.0.0.1
+#    database_port: null
+#    database_name: symfony_CRUD
+#    database_user: root
+#    database_password: null
+#    mailer_transport: smtp
+#    mailer_host: 127.0.0.1
+#    mailer_user: null
+#    mailer_password: null
+#    secret: f01558220fb83c1b50f0bd75dedcae06355d8a64
+parameters:
+    database_host: 127.3.38.130
+    database_port: 3306
+    database_name: crud
+    database_user: adminTHUILFQ
+    database_password: X7XqpIwAW3c5
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: f01558220fb83c1b50f0bd75dedcae06355d8a64
